@@ -597,8 +597,8 @@ private:
 
 	AsteroidShape currentShape = AsteroidShape::TRIANGLE;
 
-	static constexpr int C_WIDTH = 1600;
-	static constexpr int C_HEIGHT = 1000;
+	static constexpr int C_WIDTH = 1280;
+	static constexpr int C_HEIGHT = 720;
 	static constexpr size_t MAX_AST = 150;
 	static constexpr float C_SPAWN_MIN = 0.5f;
 	static constexpr float C_SPAWN_MAX = 3.0f;
